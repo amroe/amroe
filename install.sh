@@ -1,5 +1,3 @@
-[ ! -f "/etc/systemd/system/xuione.service" ] && echo "XUI.one isn't installed!" && exit
-[ ! -d "/home/xui/config" ] && echo "XUI.one isn't installed!" && exit
 echo "XUI.one Crack"
 echo "-------------"
 echo "All Versions"
