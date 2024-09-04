@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-tv-drama-il.png" tvg-id="4b9a5088f82d0895913d46d8377f0dce",yes TV Drama
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-tv-drama-il.png" tvg-id="4b9a5088f82d0895913d46d8377f0dce",yes TV Drama
 http://158.178.130.152:9981/stream/channelid/139500107?profile=pass
