@@ -1,3 +1,5 @@
-#EXTM3U
-#EXTINF:-1, yes TV Drama
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-tv-drama-il.png" tvg-id="4b9a5088f82d0895913d46d8377f0dce" tvg-name="yes TV Drama",yes TV Drama
+#EXTVLCOPT:program=1
 http://158.178.130.152:9981/stream/channelid/139500107?profile=pass
